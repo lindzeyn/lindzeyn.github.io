@@ -12,7 +12,7 @@ redirect_from:
 
 I'm a postdoc in the <a href="https://www.colorado.edu/cs-theory/">CS theory group</a> at <a href="https://www.colorado.edu/">CU Boulder</a>.
 
-I did my Ph.D. in <a href="https://uwaterloo.ca/combinatorics-and-optimization/">Combinatorics and Optimization</a> at the <a href="https://uwaterloo.ca/">University of Waterloo</a>.
+I did my Ph.D. in <a href="https://uwaterloo.ca/combinatorics-and-optimization/">Combinatorics and Optimization</a> at the <a href="https://uwaterloo.ca/">University of Waterloo</a> under Joseph Cheriyan and Chris Godsil.
 
 Before that, I got a M.S. in <a href="https://www.math.colostate.edu/">Math</a> and <a href="https://www.cs.colostate.edu/">CS</a> at <a href="https://www.colostate.edu/">Colorado State University</a>.
 
