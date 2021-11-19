@@ -16,6 +16,6 @@ I did my Ph.D. in <a href="https://uwaterloo.ca/combinatorics-and-optimization/"
 
 Before that, I got a M.S. in <a href="https://www.math.colostate.edu/">Math</a> and <a href="https://www.cs.colostate.edu/">Computer Science</a> at <a href="https://www.colostate.edu/">Colorado State University</a>.
 
-Back in Texas I studied Computer Science, Music, and Math at <a href="https://www.southwestern.edu/">Southwestern University</a>.
+As an undergrad, I majored in Computer Science and Music at <a href="https://www.southwestern.edu/">Southwestern University</a>.
 					
 I have a broad interest in Algebra, Combinatorics, and Optimization. Recently I've been using algebraic techniques to solve problems in extremal combinatorics and theoretical computer science. Many of these problems feature matchings.
