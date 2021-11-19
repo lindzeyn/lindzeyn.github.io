@@ -2,7 +2,7 @@
 title: "Linear-Time Algorithms for Finding Tucker Submatrices and Lekkerkerker-Boland Subgraphs"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: '<i>with Ross McConnell</i>. <br><br>A preliminary version of this work appeared in WG 2013.</i>'
+excerpt: '<i>Joint work with Ross McConnell</i>. <br><br>A preliminary version of this work appeared in WG 2013.'
 date: 2016-01-01
 venue: 'SIAM Journal on Discrete Mathematics'
 paperurl: 'https://arxiv.org/abs/1401.0224'
