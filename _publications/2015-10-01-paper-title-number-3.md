@@ -4,7 +4,8 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Lekkerkerker and Boland characterized the minimal forbidden induced subgraphs for the class of interval graphs. We give a linear-time algorithm to find one in any graph that is not an interval graph. Tucker characterized the minimal forbidden submatrices of binary matrices that do not have the consecutive-ones property. We give a linear-time algorithm to find one in any binary matrix that does not have the consecutive-ones property. 
 <br>
-A preliminary version of this work appeared in WG 2013.
+<br>
+<i>A preliminary version of this work appeared in WG 2013.</i>
 '
 date: 2016-01-01
 venue: 'SIAM Journal on Discrete Mathematics'
