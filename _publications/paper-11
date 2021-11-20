@@ -1,1 +1,9 @@
-
+---
+title: "Matchings, hypergraphs, association schemes, and semidefinite optimization"
+collection: publications
+permalink: /publication/paper-10
+excerpt: '<i>Joint work with Neta Dafni, Yuval Filmus, Noam Lifshitz, and Marc Vinyals</i>.'
+date: 2021-01-01
+venue: 'ITCS'
+paperurl: 'https://arxiv.org/abs/2010.07405'
+---
