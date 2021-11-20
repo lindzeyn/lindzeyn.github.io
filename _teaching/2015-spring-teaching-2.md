@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Lecturer of Computer Science"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Northern Colorado, Department of Mathematical Sciences"
+date: 2012-08-01
+location: "Greeley, CO. USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Taught the undergraduate Computer Science cirriculum from Fall 2012 to Spring 2014.
