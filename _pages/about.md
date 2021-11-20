@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+body{
+  font-size: 16pt;
+}
+
+
 <b>I am on the job market for Fall 2022.</b>
 
 I'm a postdoc in the <a href="https://www.colorado.edu/cs-theory/">CS theory group</a> at <a href="https://www.colorado.edu/">CU Boulder</a>.
