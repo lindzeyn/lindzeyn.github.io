@@ -9,31 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+Education
 ======
 * B.A. in Computer Science and Music, Southwestern University, 2007
 * M.S. in Computer Science, Colorado State University, 2012
 * M.S. in Mathematics, Colorado State University, 2014
 * Ph.D in Combinatorics and Optimization, University of Waterloo, 2018
 
-# Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-# Talks
+Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-# Teaching
+Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-# Service and leadership
+Service and leadership
 ======
 * Currently signed in to 43 different slack teams
