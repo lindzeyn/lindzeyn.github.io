@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Computer Science and Music, Southwestern University, 2007
+* M.S. in Computer Science, Colorado State University, 2012
+* M.S. in Mathematics, Colorado State University, 2014
+* Ph.D in Combinatorics and Optimization, University of Waterloo, 2018
 
 Work experience
 ======
