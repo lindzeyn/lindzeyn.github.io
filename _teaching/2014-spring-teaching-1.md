@@ -1,7 +1,7 @@
 ---
 title: "Postbaccalaureate Instructor of Computer Science "
 collection: teaching
-type: "Postbaccalaureate course"
+type: "postbaccalaureate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Colorado, Department of Computer Science"
 date: 2019-01-01
