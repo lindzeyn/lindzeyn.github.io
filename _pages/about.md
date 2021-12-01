@@ -21,5 +21,5 @@ Before that, I got a M.S. in <a href="https://www.math.colostate.edu/">Mathemati
 
 I have a broad interest in Algebra, Combinatorics, and Optimization. Recently I've been using algebraic techniques to solve problems in extremal combinatorics and theoretical computer science. Many of these problems feature matchings.
 
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
+**I am on the job market for Fall 2022!**
 {: .notice}
