@@ -7,6 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
+theme                    : minimal-mistakes-jekyll
+minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 title                    : "Nathan Chumley Lindzey"
 title_separator          : "-"
 name                     : &name "Nathan Chumley Lindzey"
