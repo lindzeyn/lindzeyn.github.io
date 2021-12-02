@@ -4,7 +4,10 @@ collection: talks
 type: "Talk"
 permalink: /talks/talk-1
 venue: "Colorado State University CS Colloquium (BMAC)"
-date: 2012-01-01
+date: 2013-05-06
 location: "Fort Collins, Colorado"
 ---
 
+Given a graph G, a vertex switch on a vertex v results in a new graph where neighbors of v become non-neighbors of v, and the non-neighbors of v become neighbors of v. This operation gives rise to an equivalence relation over the set of all directed labeled graphs on n vertices. The equivalence class of G with respect to the switching operation is commonly referred to as G's switching class.
+
+We show that switching classes can be used to asymptotically speed up several super-linear graph algorithms. The current techniques for speeding up graph algorithms are all somewhat involved insofar that they employ sophisticated pre-processing, data-structures, and/or assume the RAM model to achieve at most an O(log(n)) speedup for sufficiently dense graphs. Our methods are elementary and can result in super-polylogarithmic speed ups. In particular, we achieve better bounds for diameter, transitive closure, bipartite maximum matching, general maximum matching. The talk is intended for a general CS audience and will conclude with a few open problems in the area.
