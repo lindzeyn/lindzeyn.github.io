@@ -1,5 +1,5 @@
 ---
-title: "Ranks, Hooks, and Hamiltonian Cycles"
+title: "Rank, Hooks, and Hamiltonian Cycles"
 collection: talks
 type: "Seminar"
 permalink: /talks/talk-12
