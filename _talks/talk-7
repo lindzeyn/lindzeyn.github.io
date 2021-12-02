@@ -1,11 +1,10 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "Complexity Measures on the Symmetric Group and Beyond"
 collection: talks
-type: "Talk"
-permalink: /talks/talk-7
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, California"
+type: "Seminar"
+permalink: /talks/talk-6
+venue: "University of Waterloo Algebraic Graph Theory Seminar"
+date: 2021-08-17
+location: "Zoom"
 ---
-
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+[Link](https://uwaterloo.ca/combinatorics-and-optimization/events/algebraic-graph-theory-seminar-nathan-lindzey-3)
