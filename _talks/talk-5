@@ -1,11 +1,10 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "On the Algebraic Combinatorics of Injections"
 collection: talks
-type: "Talk"
+type: "Seminar"
 permalink: /talks/talk-5
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, California"
+venue: "Rocky Mountain Algebraic Combinatorics Seminar"
+date: 2020-07-10
+location: "Zoom"
 ---
-
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+[Link](https://www.math.colostate.edu/~hulpke/combinatorics/)
