@@ -3,7 +3,7 @@ title: "On the Recognition of Threshold Tolerance Graphs"
 collection: talks
 type: "Seminar"
 permalink: /talks/talk-4
-venue: "Rocky Mountain Algebraic Combinatorics Seminar"
+venue: "Colorado State University Rocky Mountain Algebraic Combinatorics Seminar"
 date: 2014-03-07
 location: "Fort Collins, Colorado"
 ---
