@@ -38,7 +38,7 @@ Teaching
   
 Service and leadership
 ======
-* I have reviewed for WG '12, ICALP '18, FOCS '19, ITCS '20, Algorithmica, European Journal of Combinatorics, Discrete Applied Mathematics, Journal of Algebraic Combinatorics, Discrete Mathematics, Linear Algebra and its Applications.
+* I have reviewed for WG '12, ICALP '18, FOCS '20, ITCS '20, Algorithmica, European Journal of Combinatorics, Discrete Applied Mathematics, Journal of Algebraic Combinatorics, Discrete Mathematics, Linear Algebra and its Applications.
 * I have organized the following learning seminars:
   * Algebra (University of Waterloo, Spring 2018)
   * Quantum Computing (University of Colorado, Summer 2019)
