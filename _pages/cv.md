@@ -38,4 +38,12 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* I have reviewed for WG '12, ICALP '18, FOCS '19, ITCS '20, Algorithmica, European Journal of Combinatorics, Discrete Applied Mathematics, Journal of Algebraic Combinatorics, Discrete Mathematics, Linear Algebra and its Applications.
+* I have organized the following learning seminars:
+  * Algebra (University of Waterloo, Spring 2018)
+  * Quantum Computing (University of Colorado, Summer 2019)
+  * Additive Combinatorics (University of Colorado, Summer 2020)
+
+* In Summer 2020 I volunteered for the [Prove it! Math Academy](https://proveitmath.org/).
+* In Summer 2021 I co-organized the Erdos-Ko-Rado panel of the [Open Problems in Algebraic Combinatorics Workshop](http://www.math.uwaterloo.ca/~cgodsil/quagmire/may21workshop/)
+
